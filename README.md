@@ -1,1 +1,2 @@
-# This is a basic Ray Tracer project for CS 130 (Computer Graphics). A skeleton code was provided. I only implemented certain features and functions to create a ray tracer.
+This is a basic Ray Tracer project for CS 130 (Computer Graphics). A skeleton code was provided. I only implemented certain features and functions to create a ray tracer.
+The features I implemented are: Object intersections, shading, and ray casting.
